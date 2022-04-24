@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "96076652-the-back-of-the-university-graduates-wearing-black-hat-the-background-is-blue-sky-.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
